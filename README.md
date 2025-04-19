@@ -1,2 +1,4 @@
 # dotfile
-dot file of nvim , tmux 
+
+this file is changed by me in terminal
+dot file of nvim , tmux
