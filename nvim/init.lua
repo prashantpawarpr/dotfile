@@ -3,6 +3,8 @@ require("config.lazy")
 
 -- vim.cmd([[colorscheme catppuccin]])
 vim.cmd([[colorscheme tokyonight-night]])
+vim.cmd([[colorscheme catppuccin]])
+vim.o.clipboard = "unnamedplus"
 
 -- Lua initialization file
 -- vim.g.nightflyCursorColor = true
